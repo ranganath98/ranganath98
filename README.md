@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ranganath Chenna G</h1>
+<h1 align="center">Hi 👋, I'm Ranganath Chenna </h1>
 <h3 align="center">A Enthusiastic Software Developer</h3>
 
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Ranganath's Portfolio website](https://manohar-portfolio.vercel.app/)
 
-- 💬 Ask me about **Angular React.JS Javascript TailwindCSS**
+- 💬 Ask me about **Angular React.JS Javascript TailwindCSS NodeJs**
 
 - 📫 How to reach me **chennaranganath043@gmail.com**
 
