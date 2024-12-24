@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ranganath Chenna G</h1>
 <h3 align="center">A Enthusiastic Software Developer</h3>
-<img align="right" alt="coding image"  width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" loading="lazy"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu-esd&label=Profile%20views&color=0e75b6&style=flat" alt="manu-esd" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-manohar-g-a76213292/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-004bb9?style=flat&logo=Linkedin&logoColor=white" alt="Linked" /></a>
+<a href="https://www.linkedin.com/in/ranganathchenna/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-004bb9?style=flat&logo=Linkedin&logoColor=white" alt="Linked" /></a>
 </p>
 
 ## Tech Stack
@@ -34,14 +34,9 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next%20js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
 
-<p align="center">
-  [![Ranganath's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranganath98)](https://github.com/ranganath98/github-readme-stats)
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manu-esd&show_icons=true" /> -->
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manu-esd&show_icons" /> -->
-</p>
